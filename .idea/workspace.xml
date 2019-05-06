@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96755e7c-1900-4435-b036-887e0dcc5978" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
@@ -88,7 +88,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -139,8 +139,8 @@
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/FahrenheitTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" />
-        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" />
       </list>
     </option>
   </component>
@@ -270,7 +270,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1557090517610</updated>
-      <workItem from="1557090522110" duration="3965000" />
+      <workItem from="1557090522110" duration="4029000" />
     </task>
     <servers />
   </component>
@@ -283,7 +283,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3965000" />
+    <option name="totallyTimeSpent" value="4029000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="23" width="1280" height="1417" extended-state="0" />
@@ -400,6 +400,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -407,13 +414,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
