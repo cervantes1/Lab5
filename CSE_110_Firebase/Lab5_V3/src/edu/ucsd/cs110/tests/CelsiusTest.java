@@ -13,6 +13,7 @@ public class CelsiusTest extends TestCase{
         assertEquals(value, temp.getValue(), delta);
     }
 
+
     public void testCelsiusToString(){
         float value = 12.34f;
 
@@ -32,7 +33,7 @@ public class CelsiusTest extends TestCase{
         int endIndex = string.indexOf(ending);
 
         // (Hint: what is the length of the middle of the string?)
-        assertTrue(string.substring(1, endIndex).equals(beginning));
+        assertTrue(string.substring(0, endIndex).equals(beginning));
     }
 
     public void testCelsiusToCelsius()
